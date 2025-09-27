@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyanshu shrivastv</h1>
 <h3 align="center">I’m a BCA (Artificial Intelligence &amp; Machine Learning) student with a strong passion for coding and building smart, efficient solutions. I love exploring new technologies, contributing to open-source projects, and continuously learning to grow as a developer</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
